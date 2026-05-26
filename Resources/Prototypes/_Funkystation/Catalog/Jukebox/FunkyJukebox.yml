@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 corresp0nd <46357632+corresp0nd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 lolmatdi <59433122+lolmatdi@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: jukebox
+  id: BingusPinball
+  name: SlappyHappy2000 - BINGUS PINBALL !!!
+  path:
+    path: Audio/_Funkystation/Jukebox/binguspin.ogg
+- type: jukebox
+  id: UnrelentingDreams
+  name: SlappyHappy2000 - Unrelenting Dreams
+  path:
+    path: Audio/_Funkystation/Jukebox/unrelentingdreams.ogg
+- type: jukebox
+  id: ChucklePark
+  name: SlappyHappy2000 - CHUCKLE PARK
+  path:
+    path: Audio/_Funkystation/Jukebox/ChucklePark.ogg
+- type: jukebox
+  id: MeowlsSlappyHappy
+  name: SlappyHappy2000 - Meowls.
+  path:
+    path: Audio/_Funkystation/Jukebox/Meowls..ogg
