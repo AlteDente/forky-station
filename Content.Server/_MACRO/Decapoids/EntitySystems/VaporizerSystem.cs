@@ -12,7 +12,7 @@ namespace Content.Server._MACRO.Decapoids.EntitySystems;
 
 public sealed class VaporizerSystem : SharedVaporizerSystem
 {
-    [Dependency] private readonly SharedSolutionContainerSystem _solution = default!;
+    [Dependency] private SharedSolutionContainerSystem _solution = default!;
 
     public override void AdjustTankMoles(VaporizerComponent vaporizer, GasTankComponent gasTank, Entity<SolutionComponent> solution)
     {
