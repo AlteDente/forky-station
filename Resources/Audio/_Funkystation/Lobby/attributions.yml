@@ -3,12 +3,12 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
 - files: ["unrelentingdreams.ogg"]
-  license: "CC-BY-SA-4.0"
+  license: "MIT"
   copyright: "Unrelenting Dreams by SlappyHappy2000"
   source: "https://www.youtube.com/watch?v=pNa5ohEy2WA"
   
 - files: ["binguspin.ogg"]
-  license: "CC-BY-SA-4.0"
+  license: "MIT"
   copyright: "BINGUS PINBALL !!! by SlappyHappy2000, edited to fit better space station 14"
   source: "https://www.youtube.com/watch?v=_Y3BfNDIZ9k"
   

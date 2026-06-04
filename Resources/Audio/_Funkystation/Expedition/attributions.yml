@@ -1,9 +1,7 @@
-# SPDX-FileCopyrightText: 2025 taydeo <td12233a@gmail.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
+
   
 - files: ["REDDEMON.ogg"]
-  license: "CC-BY-SA-4.0"
+  license: "MIT"
   copyright: "Red Demon by SlappyHappy2000, edited to fit better space station 14"
   source: "https://www.youtube.com/watch?v=4_SNsSJbewE"
   
